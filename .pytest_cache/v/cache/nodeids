@@ -1,0 +1,7 @@
+[
+  "case/test_1.py::test_blog",
+  "case/test_2.py::test_baidu",
+  "case/test_baidu.py::test_01",
+  "case/test_login.py::TestLogin::test_login[admin-123456-admin]",
+  "case/test_login.py::TestLogin::test_login[admin1-123123-]"
+]
